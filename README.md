@@ -26,6 +26,7 @@ $ go run cmd/kanna/kanna.go
 
 * `--type`: You can select `stdout`, `json`.
 * `--statusCode`: You can select all status code. 
+* `--verbose=false`: Verbose output
 
 ## Author
 
