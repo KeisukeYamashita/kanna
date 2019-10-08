@@ -3,7 +3,7 @@
 > Kanna is a light webhook test server for webhook application developing
 
 [![Go][go-badge]][go]
-![CircleCI](https://circleci.com/gh/KeisukeYamashita/kanna.svg?style=svg&circle-token=e4b3002b1fb96c423ed5f75332c3455d88d56b0f)
+[![CircleCI](https://circleci.com/gh/KeisukeYamashita/kanna.svg?style=svg&circle-token=f8c88dac122efb85847edff652e653c1111c07d1)](https://circleci.com/gh/KeisukeYamashita/kanna)
 [![GolangCI][golangci-badge]][golangci]
 [![Go Report Card][go-report-card-badge]][go-report-card]
 [![GoDoc][godoc-badge]][godoc]
