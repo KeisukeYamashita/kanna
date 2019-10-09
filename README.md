@@ -24,7 +24,7 @@ $ go run cmd/kanna/kanna.go
 
 ### Flags
 
-* `--type`: You can select `stdout`, `json`.
+* `--type`: You can select `stdout`, `json`. Default is `stdout`
 * `--statusCode`: You can select all status code. 
 * `--verbose=false`: Verbose output
 
