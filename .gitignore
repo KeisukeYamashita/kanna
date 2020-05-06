@@ -15,3 +15,9 @@
 
 # Build artifact
 bin/
+
+# IDE
+.idea/
+
+# dist
+dist/*.json
